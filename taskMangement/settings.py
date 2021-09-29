@@ -25,7 +25,7 @@ SECRET_KEY = 'jxw#kn*x__6a2-=!$lqv_t)mmz9)j&v$n2-8aankdaxb7@%n78'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['onrender.com']
+ALLOWED_HOSTS = ['onrender.com', 'test-dj-sql3-dockerfile.onrender.com']
 
 
 # Application definition
